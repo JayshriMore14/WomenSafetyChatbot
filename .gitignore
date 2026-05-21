@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+safety_contacts.db
+.streamlit/secrets.toml
+streamlit*.log
