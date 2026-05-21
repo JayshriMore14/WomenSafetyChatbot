@@ -1,5 +1,9 @@
 streamlit
+spacy
+folium
+streamlit-folium
+geopy
+twilio
 pandas
+matplotlib
 numpy
-plotly
-scikit-learn
